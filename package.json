@@ -1,0 +1,16 @@
+{
+  "name": "signup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jyotsna",
+  "license": "ISC",
+  "devDependencies": {
+    "@testing-library/cypress": "^8.0.1",
+    "cypress": "^8.3.1",
+    "cypress-file-upload": "^5.0.8"
+  }
+}
